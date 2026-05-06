@@ -1,0 +1,834 @@
+Season,Matchday,Date,Home_Team,Home_Rank,Away_Team,Away_Rank,Score,Attendance
+2024,27,15/03/2025 ,Hapoel Beer Sheva,2,Maccabi Netanya,2,2:0,13246
+2024,27,15/03/2025 ,Maccabi Tel Aviv,1,Hapoel Haifa,1,3:0,20230
+2024,27,16/03/2025 ,Maccabi Haifa,3,Beitar Jerusalem,3,3:3,28150
+2024,28,29/03/2025 ,Hapoel Haifa,5,Maccabi Haifa,5,0:2,13100
+2024,28,30/03/2025 ,Maccabi Netanya,6,Beitar Jerusalem,6,0:1,11131
+2024,28,31/03/2025 ,Hapoel Beer Sheva,1,Maccabi Tel Aviv,1,1:3,15784
+2024,29,05/04/2025 ,Maccabi Tel Aviv,1,Maccabi Netanya,1,4:1,23415
+2024,29,06/04/2025 ,Beitar Jerusalem,4,Hapoel Haifa,4,0:1,15231
+2024,29,07/04/2025 ,Maccabi Haifa,3,Hapoel Beer Sheva,3,0:3,28130
+2024,30,14/04/2025 ,Maccabi Netanya,6,Hapoel Haifa,6,2:2,4971
+2024,30,14/04/2025 ,Hapoel Beer Sheva,2,Beitar Jerusalem,2,3:1,15164
+2024,30,14/04/2025 ,Maccabi Tel Aviv,1,Maccabi Haifa,1,1:1,28429
+2024,31,19/04/2025 ,Hapoel Haifa,5,Hapoel Beer Sheva,5,1:2,3040
+2024,31,20/04/2025 ,Maccabi Haifa,3,Maccabi Netanya,3,1:0,17120
+2024,31,21/04/2025 ,Beitar Jerusalem,4,Maccabi Tel Aviv,4,3:1,25576
+2024,32,26/04/2025 ,Hapoel Haifa,5,Maccabi Tel Aviv,5,1:3,7490
+2024,32,27/04/2025 ,Maccabi Netanya,6,Hapoel Beer Sheva,6,2:1,7120
+2024,32,28/04/2025 ,Beitar Jerusalem,4,Maccabi Haifa,4,1:2,26237
+2024,33,03/05/2025 ,Maccabi Haifa,3,Hapoel Haifa,3,1:5,24130
+2024,33,04/05/2025 ,Beitar Jerusalem,4,Maccabi Netanya,4,0:3,13500
+2024,33,05/05/2025 ,Maccabi Tel Aviv,2,Hapoel Beer Sheva,2,1:1,27063
+2024,34,11/05/2025 ,Hapoel Haifa,5,Beitar Jerusalem,5,1:0,7973
+2024,34,12/05/2025 ,Maccabi Netanya,6,Maccabi Tel Aviv,6,1:6,11733
+2024,34,12/05/2025 ,Hapoel Beer Sheva,1,Maccabi Haifa,1,4:1,14853
+2024,35,17/05/2025 ,Hapoel Haifa,5,Maccabi Netanya,5,1:1,4079
+2024,35,19/05/2025 ,Beitar Jerusalem,4,Hapoel Beer Sheva,4,1:1,25370
+2024,35,19/05/2025 ,Maccabi Haifa,3,Maccabi Tel Aviv,3,0:3,27843
+2024,36,24/05/2025 ,Maccabi Netanya,6,Maccabi Haifa,6,2:3,5252
+2024,36,24/05/2025 ,Maccabi Tel Aviv,1,Beitar Jerusalem,1,5:0,28108
+2024,36,24/05/2025 ,Hapoel Beer Sheva,2,Hapoel Haifa,2,5:0,15775
+2024,27,15/03/2025 ,Ironi Kiryat Shmona,3,Maccabi Petah Tikva,3,2:1,245
+2024,27,15/03/2025 ,Ironi Tiberias,6,Hapoel Hadera,6,1:1,534
+2024,27,15/03/2025 ,Hapoel Jerusalem,1,Ihud Bnei Sakhnin,1,4:1,1438
+2024,27,16/03/2025 ,Maccabi Bnei Reineh,2,FC Ashdod,2,1:1,300
+2024,28,29/03/2025 ,Maccabi Petah Tikva,5,Hapoel Hadera,5,4:1,1166
+2024,28,29/03/2025 ,Ihud Bnei Sakhnin,7,Ironi Tiberias,7,2:1,1334
+2024,28,29/03/2025 ,FC Ashdod,6,Hapoel Jerusalem,6,1:1,2280
+2024,28,29/03/2025 ,Ironi Kiryat Shmona,1,Maccabi Bnei Reineh,1,0:3,314
+2024,29,05/04/2025 ,Maccabi Bnei Reineh,2,Maccabi Petah Tikva,2,0:2,437
+2024,29,05/04/2025 ,Hapoel Jerusalem,3,Ironi Kiryat Shmona,3,2:0,1392
+2024,29,06/04/2025 ,Ironi Tiberias,4,FC Ashdod,4,1:2,700
+2024,29,07/04/2025 ,Hapoel Hadera,8,Ihud Bnei Sakhnin,8,0:1,592
+2024,30,19/04/2025 ,Maccabi Petah Tikva,4,Ihud Bnei Sakhnin,4,1:2,1446
+2024,30,19/04/2025 ,FC Ashdod,7,Hapoel Hadera,7,4:1,756
+2024,30,19/04/2025 ,Ironi Kiryat Shmona,2,Ironi Tiberias,2,0:2,177
+2024,30,19/04/2025 ,Maccabi Bnei Reineh,3,Hapoel Jerusalem,3,2:1,353
+2024,31,26/04/2025 ,Hapoel Jerusalem,2,Maccabi Petah Tikva,2,0:0,1343
+2024,31,26/04/2025 ,Ironi Tiberias,5,Maccabi Bnei Reineh,5,2:1,1050
+2024,31,26/04/2025 ,Hapoel Hadera,8,Ironi Kiryat Shmona,8,1:0,195
+2024,31,26/04/2025 ,Ihud Bnei Sakhnin,4,FC Ashdod,4,0:0,3714
+2024,32,03/05/2025 ,Maccabi Petah Tikva,7,FC Ashdod,7,1:1,3127
+2024,32,03/05/2025 ,Ironi Kiryat Shmona,3,Ihud Bnei Sakhnin,3,0:1,810
+2024,32,03/05/2025 ,Maccabi Bnei Reineh,2,Hapoel Hadera,2,1:2,278
+2024,32,03/05/2025 ,Hapoel Jerusalem,1,Ironi Tiberias,1,3:1,1336
+2024,33,10/05/2025 ,Ironi Tiberias,5,Maccabi Petah Tikva,5,0:0,2328
+2024,33,10/05/2025 ,Hapoel Hadera,8,Hapoel Jerusalem,8,2:4,410
+2024,33,10/05/2025 ,Ihud Bnei Sakhnin,4,Maccabi Bnei Reineh,4,0:1,1835
+2024,33,10/05/2025 ,FC Ashdod,6,Ironi Kiryat Shmona,6,4:2,4526
+2023,27,30/03/2024 ,Hapoel Beer Sheva,3,Hapoel Haifa,3,2:1,10565
+2023,27,30/03/2024 ,Maccabi Tel Aviv,1,Ihud Bnei Sakhnin,1,2:0,20267
+2023,27,31/03/2024 ,Maccabi Haifa,2,Maccabi Bnei Reineh,2,1:2,24560
+2023,28,06/04/2024 ,Ihud Bnei Sakhnin,6,Hapoel Haifa,6,2:1,933
+2023,28,07/04/2024 ,Maccabi Bnei Reineh,5,Hapoel Beer Sheva,5,1:0,1577
+2023,28,08/04/2024 ,Maccabi Tel Aviv,1,Maccabi Haifa,1,1:1,26275
+2023,29,13/04/2024 ,Maccabi Haifa,2,Ihud Bnei Sakhnin,2,1:0,26231
+2023,29,14/04/2024 ,Hapoel Haifa,4,Maccabi Bnei Reineh,4,2:0,0
+2023,29,15/04/2024 ,Hapoel Beer Sheva,3,Maccabi Tel Aviv,3,1:0,12103
+2023,30,20/04/2024 ,Ihud Bnei Sakhnin,6,Maccabi Bnei Reineh,6,0:2,1167
+2023,30,20/04/2024 ,Maccabi Tel Aviv,1,Hapoel Haifa,1,4:0,23221
+2023,30,20/04/2024 ,Maccabi Haifa,2,Hapoel Beer Sheva,2,4:1,27457
+2023,31,27/04/2024 ,Maccabi Bnei Reineh,5,Maccabi Tel Aviv,5,2:3,4459
+2023,31,29/04/2024 ,Hapoel Beer Sheva,3,Ihud Bnei Sakhnin,3,2:1,6155
+2023,31,29/04/2024 ,Hapoel Haifa,4,Maccabi Haifa,4,0:2,21284
+2023,32,04/05/2024 ,Hapoel Haifa,4,Hapoel Beer Sheva,4,2:0,2650
+2023,32,04/05/2024 ,Maccabi Bnei Reineh,5,Maccabi Haifa,5,1:5,4596
+2023,32,06/05/2024 ,Ihud Bnei Sakhnin,6,Maccabi Tel Aviv,6,1:1,3510
+2023,33,09/05/2024 ,Hapoel Haifa,4,Ihud Bnei Sakhnin,4,1:2,1940
+2023,33,09/05/2024 ,Hapoel Beer Sheva,3,Maccabi Bnei Reineh,3,2:1,7308
+2023,33,11/05/2024 ,Maccabi Haifa,2,Maccabi Tel Aviv,2,0:1,29842
+2023,34,18/05/2024 ,Ihud Bnei Sakhnin,6,Maccabi Haifa,6,1:2,2500
+2023,34,18/05/2024 ,Maccabi Tel Aviv,1,Hapoel Beer Sheva,1,3:0,25180
+2023,34,18/05/2024 ,Maccabi Bnei Reineh,5,Hapoel Haifa,5,0:1,800
+2023,35,21/05/2024 ,Maccabi Bnei Reineh,5,Ihud Bnei Sakhnin,5,2:2,980
+2023,35,21/05/2024 ,Hapoel Haifa,4,Maccabi Tel Aviv,4,0:3,6834
+2023,35,21/05/2024 ,Hapoel Beer Sheva,3,Maccabi Haifa,3,1:4,9675
+2023,36,25/05/2024 ,Ihud Bnei Sakhnin,6,Hapoel Beer Sheva,6,4:1,1500
+2023,36,25/05/2024 ,Maccabi Haifa,2,Hapoel Haifa,2,0:2,25140
+2023,36,25/05/2024 ,Maccabi Tel Aviv,1,Maccabi Bnei Reineh,1,2:0,21145
+2023,27,30/03/2024 ,Hapoel Hadera,6,Hapoel Petah Tikva,6,1:1,1938
+2023,27,30/03/2024 ,Maccabi Petah Tikva,2,FC Ashdod,2,0:1,1009
+2023,27,31/03/2024 ,Maccabi Netanya,3,Beitar Jerusalem,3,0:3,9301
+2023,27,01/04/2024 ,Hapoel Jerusalem,1,Hapoel Tel Aviv,1,2:0,2590
+2023,28,13/04/2024 ,Beitar Jerusalem,4,Hapoel Hadera,4,0:1,15000
+2023,28,13/04/2024 ,Hapoel Tel Aviv,6,Hapoel Petah Tikva,6,1:1,9928
+2023,28,14/04/2024 ,Hapoel Jerusalem,1,Maccabi Petah Tikva,1,2:0,0
+2023,28,14/04/2024 ,FC Ashdod,7,Maccabi Netanya,7,0:0,0
+2023,29,20/04/2024 ,Maccabi Netanya,4,Hapoel Jerusalem,4,1:0,4399
+2023,29,20/04/2024 ,Maccabi Petah Tikva,3,Hapoel Tel Aviv,3,4:2,4290
+2023,29,21/04/2024 ,Hapoel Hadera,2,FC Ashdod,2,2:2,700
+2023,29,21/04/2024 ,Hapoel Petah Tikva,8,Beitar Jerusalem,8,0:2,8560
+2023,30,27/04/2024 ,Hapoel Jerusalem,1,Hapoel Hadera,1,2:1,1200
+2023,30,27/04/2024 ,Maccabi Petah Tikva,3,Maccabi Netanya,3,0:2,1791
+2023,30,27/04/2024 ,Hapoel Tel Aviv,6,Beitar Jerusalem,6,1:5,17800
+2023,30,27/04/2024 ,FC Ashdod,7,Hapoel Petah Tikva,7,1:0,2072
+2023,31,04/05/2024 ,Maccabi Netanya,2,Hapoel Tel Aviv,2,0:1,9816
+2023,31,04/05/2024 ,Hapoel Petah Tikva,8,Hapoel Jerusalem,8,1:0,1620
+2023,31,06/05/2024 ,Hapoel Hadera,4,Maccabi Petah Tikva,4,0:4,1280
+2023,31,06/05/2024 ,Beitar Jerusalem,3,FC Ashdod,3,0:0,11591
+2023,32,11/05/2024 ,Hapoel Tel Aviv,7,FC Ashdod,7,0:2,25179
+2023,32,11/05/2024 ,Hapoel Jerusalem,1,Beitar Jerusalem,1,3:0,11753
+2023,32,11/05/2024 ,Maccabi Petah Tikva,2,Hapoel Petah Tikva,2,4:1,2205
+2023,32,11/05/2024 ,Maccabi Netanya,4,Hapoel Hadera,4,1:2,3600
+2023,33,18/05/2024 ,Hapoel Hadera,3,Hapoel Tel Aviv,3,0:1,1100
+2023,33,18/05/2024 ,FC Ashdod,6,Hapoel Jerusalem,6,3:1,1620
+2023,33,19/05/2024 ,Hapoel Petah Tikva,8,Maccabi Netanya,8,1:3,948
+2023,33,20/05/2024 ,Beitar Jerusalem,4,Maccabi Petah Tikva,4,1:1,10500
+2022,27,18/03/2023 ,Hapoel Beer Sheva,2,Hapoel Jerusalem,2,1:0,12536
+2022,27,18/03/2023 ,Maccabi Tel Aviv,3,Maccabi Netanya,3,2:0,16602
+2022,27,18/03/2023 ,Maccabi Haifa,1,FC Ashdod,1,2:1,28076
+2022,28,01/04/2023 ,Hapoel Jerusalem,5,Maccabi Tel Aviv,5,0:2,4242
+2022,28,01/04/2023 ,Maccabi Haifa,1,Hapoel Beer Sheva,1,1:0,29875
+2022,28,01/04/2023 ,FC Ashdod,6,Maccabi Netanya,6,3:2,2422
+2022,29,04/04/2023 ,Maccabi Netanya,5,Hapoel Jerusalem,5,0:2,3484
+2022,29,04/04/2023 ,Hapoel Beer Sheva,3,FC Ashdod,3,3:1,10448
+2022,29,04/04/2023 ,Maccabi Tel Aviv,2,Maccabi Haifa,2,1:1,26330
+2022,30,08/04/2023 ,FC Ashdod,5,Hapoel Jerusalem,5,0:1,2231
+2022,30,08/04/2023 ,Maccabi Haifa,1,Maccabi Netanya,1,4:1,29431
+2022,30,10/04/2023 ,Hapoel Beer Sheva,2,Maccabi Tel Aviv,2,1:2,15114
+2022,31,15/04/2023 ,Hapoel Jerusalem,4,Maccabi Haifa,4,2:1,18755
+2022,31,15/04/2023 ,Maccabi Tel Aviv,2,FC Ashdod,2,1:1,15686
+2022,31,16/04/2023 ,Maccabi Netanya,6,Hapoel Beer Sheva,6,1:1,6341
+2022,32,22/04/2023 ,Hapoel Jerusalem,4,Hapoel Beer Sheva,4,1:2,2988
+2022,32,22/04/2023 ,Maccabi Netanya,6,Maccabi Tel Aviv,6,0:0,8730
+2022,32,23/04/2023 ,FC Ashdod,5,Maccabi Haifa,5,1:2,6497
+2022,33,29/04/2023 ,Maccabi Netanya,6,FC Ashdod,6,2:0,4222
+2022,33,29/04/2023 ,Maccabi Tel Aviv,3,Hapoel Jerusalem,3,2:1,11743
+2022,33,01/05/2023 ,Hapoel Beer Sheva,2,Maccabi Haifa,2,2:1,10727
+2022,34,07/05/2023 ,Hapoel Jerusalem,4,Maccabi Netanya,4,1:4,1331
+2022,34,08/05/2023 ,Maccabi Haifa,1,Maccabi Tel Aviv,1,3:1,28752
+2022,34,08/05/2023 ,FC Ashdod,6,Hapoel Beer Sheva,6,0:1,3629
+2022,35,14/05/2023 ,Hapoel Jerusalem,4,FC Ashdod,4,0:1,592
+2022,35,15/05/2023 ,Maccabi Tel Aviv,3,Hapoel Beer Sheva,3,3:0,12471
+2022,35,15/05/2023 ,Maccabi Netanya,5,Maccabi Haifa,5,1:5,12960
+2022,36,20/05/2023 ,Maccabi Haifa,1,Hapoel Jerusalem,1,5:0,30564
+2022,36,20/05/2023 ,Hapoel Beer Sheva,2,Maccabi Netanya,2,2:0,7438
+2022,36,20/05/2023 ,FC Ashdod,6,Maccabi Tel Aviv,6,1:2,3569
+2022,27,18/03/2023 ,Hapoel Hadera,6,Sekzia Ness Ziona,6,1:2,648
+2022,27,18/03/2023 ,Beitar Jerusalem,2,Hapoel Tel Aviv,2,2:1,9000
+2022,27,19/03/2023 ,Ihud Bnei Sakhnin,3,Maccabi Bnei Reineh,3,2:2,1000
+2022,27,19/03/2023 ,Hapoel Haifa,1,Ironi Kiryat Shmona,1,1:1,700
+2022,28,01/04/2023 ,Hapoel Tel Aviv,5,Sekzia Ness Ziona,5,2:1,9360
+2022,28,02/04/2023 ,Ironi Kiryat Shmona,7,Ihud Bnei Sakhnin,7,2:2,1219
+2022,28,02/04/2023 ,Maccabi Bnei Reineh,6,Hapoel Hadera,6,1:1,914
+2022,28,03/04/2023 ,Beitar Jerusalem,3,Hapoel Haifa,3,2:0,5336
+2022,29,15/04/2023 ,Hapoel Haifa,3,Hapoel Tel Aviv,3,1:0,3950
+2022,29,15/04/2023 ,Sekzia Ness Ziona,8,Maccabi Bnei Reineh,8,1:2,419
+2022,29,15/04/2023 ,Hapoel Hadera,5,Ironi Kiryat Shmona,5,1:1,980
+2022,29,16/04/2023 ,Ihud Bnei Sakhnin,2,Beitar Jerusalem,2,4:3,5656
+2022,30,22/04/2023 ,Hapoel Tel Aviv,5,Maccabi Bnei Reineh,5,1:2,9122
+2022,30,22/04/2023 ,Ironi Kiryat Shmona,7,Sekzia Ness Ziona,7,1:1,1380
+2022,30,22/04/2023 ,Hapoel Haifa,2,Ihud Bnei Sakhnin,2,2:2,1850
+2022,30,23/04/2023 ,Beitar Jerusalem,3,Hapoel Hadera,3,2:1,4697
+2022,31,29/04/2023 ,Maccabi Bnei Reineh,4,Ironi Kiryat Shmona,4,1:3,1965
+2022,31,29/04/2023 ,Sekzia Ness Ziona,8,Beitar Jerusalem,8,1:3,1696
+2022,31,30/04/2023 ,Hapoel Hadera,5,Hapoel Haifa,5,1:2,1113
+2022,31,30/04/2023 ,Ihud Bnei Sakhnin,2,Hapoel Tel Aviv,2,0:1,3998
+2022,32,06/05/2023 ,Hapoel Tel Aviv,4,Ironi Kiryat Shmona,4,2:2,12885
+2022,32,06/05/2023 ,Beitar Jerusalem,1,Maccabi Bnei Reineh,1,0:1,4071
+2022,32,06/05/2023 ,Ihud Bnei Sakhnin,3,Hapoel Hadera,3,2:3,2745
+2022,32,06/05/2023 ,Hapoel Haifa,2,Sekzia Ness Ziona,2,0:1,2066
+2022,33,13/05/2023 ,Sekzia Ness Ziona,8,Ihud Bnei Sakhnin,8,1:1,127
+2022,33,13/05/2023 ,Hapoel Hadera,6,Hapoel Tel Aviv,6,1:2,2003
+2022,33,13/05/2023 ,Ironi Kiryat Shmona,7,Beitar Jerusalem,7,3:2,1117
+2022,33,13/05/2023 ,Maccabi Bnei Reineh,4,Hapoel Haifa,4,0:4,1347
+2021,27,19/03/2022 ,Maccabi Tel Aviv,3,Ihud Bnei Sakhnin,3,0:0,20630
+2021,27,19/03/2022 ,Hapoel Beer Sheva,2,Maccabi Netanya,2,4:1,11591
+2021,27,19/03/2022 ,Maccabi Haifa,1,Hapoel Tel Aviv,1,3:0,27532
+2021,28,02/04/2022 ,Hapoel Tel Aviv,6,Ihud Bnei Sakhnin,6,2:1,6700
+2021,28,02/04/2022 ,Maccabi Netanya,5,Maccabi Tel Aviv,5,1:1,11100
+2021,28,04/04/2022 ,Maccabi Haifa,1,Hapoel Beer Sheva,1,2:0,28457
+2021,29,10/04/2022 ,Ihud Bnei Sakhnin,4,Maccabi Netanya,4,1:1,2500
+2021,29,10/04/2022 ,Hapoel Beer Sheva,2,Hapoel Tel Aviv,2,2:2,11633
+2021,29,11/04/2022 ,Maccabi Tel Aviv,3,Maccabi Haifa,3,1:1,25132
+2021,30,16/04/2022 ,Maccabi Haifa,1,Ihud Bnei Sakhnin,1,1:0,27253
+2021,30,17/04/2022 ,Hapoel Beer Sheva,2,Maccabi Tel Aviv,2,1:0,12550
+2021,30,18/04/2022 ,Hapoel Tel Aviv,6,Maccabi Netanya,6,2:0,11570
+2021,31,23/04/2022 ,Maccabi Netanya,6,Maccabi Haifa,6,3:0,12217
+2021,31,24/04/2022 ,Ihud Bnei Sakhnin,5,Hapoel Beer Sheva,5,1:1,2000
+2021,31,25/04/2022 ,Maccabi Tel Aviv,3,Hapoel Tel Aviv,3,5:0,25453
+2021,32,30/04/2022,Ihud Bnei Sakhnin,6,Maccabi Tel Aviv,6,1:0,2500
+2021,32,01/05/2022,Maccabi Netanya,4,Hapoel Beer Sheva,4,3:0,8178
+2021,32,02/05/2022,Hapoel Tel Aviv,5,Maccabi Haifa,5,0:2,18300
+2021,33,07/05/2022,Ihud Bnei Sakhnin,5,Hapoel Tel Aviv,5,0:0,2200
+2021,33,07/05/2022,Maccabi Tel Aviv,3,Maccabi Netanya,3,2:1,6450
+2021,33,07/05/2022,Hapoel Beer Sheva,2,Maccabi Haifa,2,1:0,12941
+2021,34,10/05/2022,Hapoel Tel Aviv,6,Hapoel Beer Sheva,6,2:1,1600
+2021,34,10/05/2022,Maccabi Haifa,1,Maccabi Tel Aviv,1,1:3,21141
+2021,34,10/05/2022,Maccabi Netanya,5,Ihud Bnei Sakhnin,5,3:0,6000
+2021,35,16/05/2022 ,Maccabi Netanya,4,Hapoel Tel Aviv,4,0:0,10772
+2021,35,16/05/2022 ,Ihud Bnei Sakhnin,6,Maccabi Haifa,6,0:3,0
+2021,35,16/05/2022 ,Maccabi Tel Aviv,3,Hapoel Beer Sheva,3,1:1,14762
+2021,27,19/03/2022 ,FC Ashdod,3,Hapoel Nof HaGalil,3,2:0,420
+2021,27,20/03/2022 ,Ironi Kiryat Shmona,1,Maccabi Petah Tikva,1,1:1,350
+2021,27,20/03/2022 ,Hapoel Haifa,5,Beitar Jerusalem,5,1:1,3100
+2021,27,21/03/2022 ,Hapoel Hadera,2,Hapoel Jerusalem,2,3:1,1100
+2021,28,02/04/2022 ,Hapoel Jerusalem,6,Hapoel Nof HaGalil,6,0:0,1989
+2021,28,02/04/2022 ,Maccabi Petah Tikva,7,Hapoel Haifa,7,0:0,800
+2021,28,03/04/2022 ,Hapoel Hadera,1,Ironi Kiryat Shmona,1,1:4,630
+2021,28,03/04/2022 ,Beitar Jerusalem,5,FC Ashdod,5,1:0,4600
+2021,29,09/04/2022 ,Ironi Kiryat Shmona,2,Hapoel Jerusalem,2,2:1,663
+2021,29,09/04/2022 ,FC Ashdod,4,Maccabi Petah Tikva,4,1:0,385
+2021,29,09/04/2022 ,Hapoel Haifa,3,Hapoel Hadera,3,1:0,500
+2021,29,09/04/2022 ,Hapoel Nof HaGalil,8,Beitar Jerusalem,8,0:2,2000
+2021,30,23/04/2022 ,Maccabi Petah Tikva,7,Hapoel Nof HaGalil,7,0:4,800
+2021,30,23/04/2022 ,Ironi Kiryat Shmona,1,Hapoel Haifa,1,4:0,250
+2021,30,23/04/2022 ,Hapoel Jerusalem,6,Beitar Jerusalem,6,0:1,7049
+2021,30,24/04/2022 ,Hapoel Hadera,2,FC Ashdod,2,2:3,506
+2021,31,30/04/2022,Hapoel Haifa,4,Hapoel Jerusalem,4,0:2,1000
+2021,31,30/04/2022,Hapoel Nof HaGalil,7,Hapoel Hadera,7,0:2,1520
+2021,31,30/04/2022,Beitar Jerusalem,5,Maccabi Petah Tikva,5,2:2,5000
+2021,31,01/05/2022,FC Ashdod,3,Ironi Kiryat Shmona,3,1:3,444
+2021,32,08/05/2022,Hapoel Jerusalem,6,Maccabi Petah Tikva,6,1:0,5136
+2021,32,08/05/2022,Ironi Kiryat Shmona,1,Hapoel Nof HaGalil,1,2:0,500
+2021,32,08/05/2022 ,Hapoel Hadera,2,Beitar Jerusalem,2,1:2,2909
+2021,32,09/05/2022,Hapoel Haifa,4,FC Ashdod,4,1:2,300
+2021,33,14/05/2022 ,Beitar Jerusalem,4,Ironi Kiryat Shmona,4,3:3,3000
+2021,33,14/05/2022 ,FC Ashdod,3,Hapoel Jerusalem,3,0:1,570
+2021,33,14/05/2022 ,Hapoel Nof HaGalil,8,Hapoel Haifa,8,1:0,0
+2021,33,14/05/2022 ,Maccabi Petah Tikva,7,Hapoel Hadera,7,4:3,300
+2020,27,03/04/2021 ,FC Ashdod,3,Ironi Kiryat Shmona,3,1:1,200
+2020,27,03/04/2021 ,Maccabi Haifa,1,Maccabi Petah Tikva,1,1:1,5000
+2020,27,03/04/2021 ,Maccabi Tel Aviv,2,Hapoel Beer Sheva,2,2:1,5000
+2020,28,06/04/2021 ,Maccabi Petah Tikva,5,Ironi Kiryat Shmona,5,2:0,300
+2020,28,06/04/2021 ,Hapoel Beer Sheva,6,FC Ashdod,6,1:2,3244
+2020,28,06/04/2021 ,Maccabi Haifa,2,Maccabi Tel Aviv,2,1:1,5000
+2020,29,10/04/2021 ,Ironi Kiryat Shmona,5,Hapoel Beer Sheva,5,1:1,150
+2020,29,11/04/2021 ,Maccabi Tel Aviv,1,Maccabi Petah Tikva,1,3:1,7916
+2020,29,12/04/2021 ,FC Ashdod,3,Maccabi Haifa,3,0:3,2434
+2020,30,17/04/2021 ,Maccabi Petah Tikva,4,Hapoel Beer Sheva,4,0:0,800
+2020,30,17/04/2021 ,Maccabi Haifa,2,Ironi Kiryat Shmona,2,4:0,10000
+2020,30,18/04/2021 ,Maccabi Tel Aviv,1,FC Ashdod,1,1:1,8822
+2020,31,25/04/2021 ,FC Ashdod,3,Maccabi Petah Tikva,3,0:0,478
+2020,31,25/04/2021 ,Ironi Kiryat Shmona,5,Maccabi Tel Aviv,5,2:0,1956
+2020,31,26/04/2021 ,Hapoel Beer Sheva,6,Maccabi Haifa,6,1:1,5157
+2020,32,01/05/2021 ,Ironi Kiryat Shmona,5,FC Ashdod,5,1:1,350
+2020,32,01/05/2021 ,Maccabi Petah Tikva,4,Maccabi Haifa,4,1:2,4950
+2020,32,03/05/2021 ,Hapoel Beer Sheva,6,Maccabi Tel Aviv,6,1:1,4939
+2020,33,08/05/2021 ,Ironi Kiryat Shmona,4,Maccabi Petah Tikva,4,1:2,250
+2020,33,09/05/2021 ,Maccabi Tel Aviv,2,Maccabi Haifa,2,2:2,22913
+2020,33,20/05/2021 ,FC Ashdod,3,Hapoel Beer Sheva,3,2:2,0
+2020,34,23/05/2021 ,Maccabi Petah Tikva,4,Maccabi Tel Aviv,4,0:3,3800
+2020,34,23/05/2021 ,Maccabi Haifa,1,FC Ashdod,1,2:0,26875
+2020,34,23/05/2021 ,Hapoel Beer Sheva,6,Ironi Kiryat Shmona,6,3:2,2278
+2020,35,26/05/2021 ,Hapoel Beer Sheva,6,Maccabi Petah Tikva,6,2:0,3687
+2020,35,26/05/2021 ,Ironi Kiryat Shmona,5,Maccabi Haifa,5,1:1,5000
+2020,35,26/05/2021 ,FC Ashdod,3,Maccabi Tel Aviv,3,1:2,1620
+2020,36,30/05/2021 ,Maccabi Petah Tikva,5,FC Ashdod,5,1:3,1000
+2020,36,30/05/2021 ,Maccabi Tel Aviv,2,Ironi Kiryat Shmona,2,2:2,20412
+2020,36,30/05/2021 ,Maccabi Haifa,1,Hapoel Beer Sheva,1,3:2,30000
+2020,27,03/04/2021 ,Hapoel Hadera,2,Hapoel Tel Aviv,2,0:1,2340
+2020,27,04/04/2021 ,Maccabi Netanya,1,Ihud Bnei Sakhnin,1,0:0,870
+2020,27,04/04/2021 ,Hapoel Haifa,3,Bnei Yehuda Tel Aviv,3,1:3,350
+2020,27,05/04/2021 ,Beitar Jerusalem,4,Hapoel Kfar Saba,4,3:1,1500
+2020,28,10/04/2021 ,Hapoel Tel Aviv,5,Hapoel Haifa,5,0:2,5000
+2020,28,10/04/2021 ,Ihud Bnei Sakhnin,6,Bnei Yehuda Tel Aviv,6,1:1,1500
+2020,28,10/04/2021 ,Maccabi Netanya,1,Beitar Jerusalem,1,1:0,1330
+2020,28,11/04/2021 ,Hapoel Kfar Saba,8,Hapoel Hadera,8,1:2,400
+2020,29,17/04/2021 ,Ihud Bnei Sakhnin,5,Hapoel Kfar Saba,5,3:0,800
+2020,29,17/04/2021 ,Maccabi Netanya,1,Hapoel Tel Aviv,1,0:1,2500
+2020,29,18/04/2021 ,Hapoel Hadera,3,Hapoel Haifa,3,3:0,500
+2020,29,19/04/2021 ,Beitar Jerusalem,2,Bnei Yehuda Tel Aviv,2,2:2,2500
+2020,30,24/04/2021 ,Hapoel Haifa,5,Ihud Bnei Sakhnin,5,1:0,1000
+2020,30,24/04/2021 ,Hapoel Kfar Saba,8,Maccabi Netanya,8,0:1,300
+2020,30,24/04/2021 ,Hapoel Tel Aviv,6,Beitar Jerusalem,6,0:0,8223
+2020,30,25/04/2021 ,Bnei Yehuda Tel Aviv,7,Hapoel Hadera,7,2:3,650
+2020,31,01/05/2021 ,Bnei Yehuda Tel Aviv,7,Maccabi Netanya,7,1:2,400
+2020,31,01/05/2021 ,Hapoel Hadera,2,Ihud Bnei Sakhnin,2,1:0,500
+2020,31,03/05/2021 ,Hapoel Tel Aviv,5,Hapoel Kfar Saba,5,2:2,2800
+2020,31,03/05/2021 ,Hapoel Haifa,4,Beitar Jerusalem,4,3:1,1000
+2020,32,08/05/2021 ,Bnei Yehuda Tel Aviv,7,Hapoel Tel Aviv,7,1:0,750
+2020,32,08/05/2021 ,Hapoel Haifa,3,Hapoel Kfar Saba,3,3:2,300
+2020,32,08/05/2021 ,Beitar Jerusalem,4,Ihud Bnei Sakhnin,4,3:1,1400
+2020,32,09/05/2021 ,Hapoel Hadera,2,Maccabi Netanya,2,2:2,600
+2019,27,30/05/2020 ,Maccabi Tel Aviv,1,Hapoel Haifa,1,2:0,0
+2019,27,30/05/2020 ,Beitar Jerusalem,3,Hapoel Beer Sheva,3,1:1,0
+2019,27,30/05/2020 ,Maccabi Haifa,2,Hapoel Tel Aviv,2,1:2,0
+2019,28,02/06/2020 ,Hapoel Tel Aviv,5,Beitar Jerusalem,5,3:0,0
+2019,28,03/06/2020 ,Hapoel Haifa,6,Hapoel Beer Sheva,6,1:1,0
+2019,28,03/06/2020 ,Maccabi Tel Aviv,1,Maccabi Haifa,1,2:0,0
+2019,29,06/06/2020 ,Hapoel Beer Sheva,4,Hapoel Tel Aviv,4,0:0,0
+2019,29,07/06/2020 ,Maccabi Haifa,2,Hapoel Haifa,2,2:2,0
+2019,29,08/06/2020 ,Beitar Jerusalem,3,Maccabi Tel Aviv,3,0:0,0
+2019,30,13/06/2020 ,Maccabi Haifa,2,Beitar Jerusalem,2,0:0,0
+2019,30,14/06/2020 ,Hapoel Haifa,6,Hapoel Tel Aviv,6,4:0,0
+2019,30,15/06/2020 ,Maccabi Tel Aviv,1,Hapoel Beer Sheva,1,1:1,0
+2019,31,17/06/2020 ,Beitar Jerusalem,3,Hapoel Haifa,3,1:1,0
+2019,31,20/06/2020 ,Hapoel Beer Sheva,4,Maccabi Haifa,4,0:1,0
+2019,31,20/06/2020 ,Hapoel Tel Aviv,5,Maccabi Tel Aviv,5,0:2,0
+2019,32,23/06/2020 ,Hapoel Beer Sheva,4,Beitar Jerusalem,4,2:2,0
+2019,32,23/06/2020 ,Hapoel Haifa,6,Maccabi Tel Aviv,6,0:3,0
+2019,32,23/06/2020 ,Hapoel Tel Aviv,5,Maccabi Haifa,5,1:3,0
+2019,33,27/06/2020 ,Maccabi Haifa,2,Hapoel Beer Sheva,2,2:1,0
+2019,33,27/06/2020 ,Maccabi Tel Aviv,1,Hapoel Tel Aviv,1,3:0,0
+2019,33,28/06/2020 ,Hapoel Haifa,6,Beitar Jerusalem,6,0:0,0
+2019,34,30/06/2020 ,Hapoel Tel Aviv,5,Hapoel Beer Sheva,5,1:0,0
+2019,34,01/07/2020 ,Hapoel Haifa,6,Maccabi Haifa,6,1:4,0
+2019,34,01/07/2020 ,Maccabi Tel Aviv,1,Beitar Jerusalem,1,1:0,0
+2019,35,04/07/2020 ,Beitar Jerusalem,3,Hapoel Tel Aviv,3,3:0,0
+2019,35,04/07/2020 ,Hapoel Beer Sheva,4,Hapoel Haifa,4,3:1,0
+2019,35,04/07/2020 ,Maccabi Haifa,2,Maccabi Tel Aviv,2,0:1,0
+2019,36,07/07/2020 ,Hapoel Tel Aviv,5,Hapoel Haifa,5,0:3,0
+2019,36,07/07/2020 ,Hapoel Beer Sheva,4,Maccabi Tel Aviv,4,2:0,0
+2019,36,07/07/2020 ,Beitar Jerusalem,3,Maccabi Haifa,3,2:2,0
+2019,27,01/06/2020 ,Bnei Yehuda Tel Aviv,1,Hapoel Kfar Saba,1,0:0,0
+2019,27,02/06/2020 ,FC Ashdod,2,Hapoel Raanana,2,3:2,0
+2019,27,02/06/2020 ,Maccabi Netanya,4,Ironi Kiryat Shmona,4,3:1,0
+2019,27,03/06/2020 ,Hapoel Hadera,3,Sekzia Ness Ziona,3,2:2,0
+2019,28,06/06/2020 ,Ironi Kiryat Shmona,6,FC Ashdod,6,3:0,0
+2019,28,06/06/2020 ,Bnei Yehuda Tel Aviv,1,Hapoel Hadera,1,5:0,0
+2019,28,06/06/2020 ,Hapoel Kfar Saba,5,Hapoel Raanana,5,2:0,0
+2019,28,07/06/2020 ,Sekzia Ness Ziona,7,Maccabi Netanya,7,1:0,0
+2019,29,13/06/2020 ,Hapoel Hadera,2,Hapoel Kfar Saba,2,0:0,0
+2019,29,13/06/2020 ,Hapoel Raanana,8,Ironi Kiryat Shmona,8,0:1,0
+2019,29,13/06/2020 ,FC Ashdod,4,Sekzia Ness Ziona,4,2:0,0
+2019,29,15/06/2020 ,Maccabi Netanya,3,Bnei Yehuda Tel Aviv,3,1:3,0
+2019,30,18/06/2020 ,Sekzia Ness Ziona,7,Hapoel Raanana,7,2:1,0
+2019,30,18/06/2020 ,Hapoel Hadera,2,Maccabi Netanya,2,1:2,0
+2019,30,20/06/2020 ,Hapoel Kfar Saba,5,Ironi Kiryat Shmona,5,0:0,0
+2019,30,21/06/2020 ,Bnei Yehuda Tel Aviv,1,FC Ashdod,1,3:3,0
+2019,31,23/06/2020 ,Hapoel Raanana,8,Maccabi Netanya,8,2:4,0
+2019,31,24/06/2020 ,Sekzia Ness Ziona,7,Bnei Yehuda Tel Aviv,7,0:0,0
+2019,31,24/06/2020 ,FC Ashdod,4,Hapoel Kfar Saba,4,2:3,0
+2019,31,24/06/2020 ,Ironi Kiryat Shmona,6,Hapoel Hadera,6,0:3,0
+2019,32,27/06/2020 ,Hapoel Hadera,3,Hapoel Raanana,3,2:2,0
+2019,32,28/06/2020 ,Hapoel Kfar Saba,5,Sekzia Ness Ziona,5,0:1,0
+2019,32,28/06/2020 ,Bnei Yehuda Tel Aviv,1,Ironi Kiryat Shmona,1,2:0,0
+2019,32,28/06/2020 ,Maccabi Netanya,2,FC Ashdod,2,2:5,0
+2019,33,01/07/2020 ,Hapoel Raanana,8,Bnei Yehuda Tel Aviv,8,0:4,0
+2019,33,02/07/2020 ,Maccabi Netanya,3,Hapoel Kfar Saba,3,0:1,0
+2019,33,02/07/2020 ,FC Ashdod,4,Hapoel Hadera,4,3:1,0
+2019,33,02/07/2020 ,Ironi Kiryat Shmona,7,Sekzia Ness Ziona,7,1:0,0
+2018,27,16/03/2019 ,Maccabi Tel Aviv,1,Hapoel Hadera,1,2:0,6497
+2018,27,16/03/2019 ,Maccabi Haifa,2,Bnei Yehuda Tel Aviv,2,0:2,10963
+2018,27,17/03/2019 ,Maccabi Netanya,4,Hapoel Beer Sheva,4,0:1,5000
+2018,28,30/03/2019 ,Hapoel Hadera,6,Hapoel Beer Sheva,6,1:4,2500
+2018,28,30/03/2019 ,Bnei Yehuda Tel Aviv,5,Maccabi Netanya,5,1:1,2000
+2018,28,30/03/2019 ,Maccabi Tel Aviv,1,Maccabi Haifa,1,1:0,12280
+2018,29,06/04/2019 ,Hapoel Beer Sheva,2,Bnei Yehuda Tel Aviv,2,2:1,12950
+2018,29,06/04/2019 ,Maccabi Haifa,4,Hapoel Hadera,4,1:3,9620
+2018,29,07/04/2019 ,Maccabi Netanya,3,Maccabi Tel Aviv,3,1:4,4950
+2018,30,14/04/2019 ,Hapoel Hadera,6,Bnei Yehuda Tel Aviv,6,2:3,1000
+2018,30,14/04/2019 ,Maccabi Haifa,3,Maccabi Netanya,3,2:1,11158
+2018,30,15/04/2019 ,Maccabi Tel Aviv,1,Hapoel Beer Sheva,1,0:0,9353
+2018,31,22/04/2019 ,Hapoel Beer Sheva,2,Maccabi Haifa,2,0:1,15752
+2018,31,23/04/2019 ,Maccabi Netanya,5,Hapoel Hadera,5,3:2,3900
+2018,31,23/04/2019 ,Bnei Yehuda Tel Aviv,4,Maccabi Tel Aviv,4,0:2,5000
+2018,32,27/04/2019 ,Hapoel Hadera,6,Maccabi Tel Aviv,6,0:1,2500
+2018,32,28/04/2019 ,Hapoel Beer Sheva,3,Maccabi Netanya,3,0:2,10000
+2018,32,29/04/2019 ,Bnei Yehuda Tel Aviv,5,Maccabi Haifa,5,2:2,5500
+2018,33,04/05/2019 ,Hapoel Hadera,6,Maccabi Netanya,6,1:2,1800
+2018,33,05/05/2019 ,Maccabi Tel Aviv,1,Bnei Yehuda Tel Aviv,1,2:3,4160
+2018,33,06/05/2019 ,Maccabi Haifa,2,Hapoel Beer Sheva,2,3:1,14273
+2018,34,11/05/2019 ,Maccabi Tel Aviv,1,Maccabi Netanya,1,3:0,8737
+2018,34,11/05/2019 ,Bnei Yehuda Tel Aviv,5,Hapoel Beer Sheva,5,2:3,2000
+2018,34,13/05/2019 ,Hapoel Hadera,6,Maccabi Haifa,6,2:0,4000
+2018,35,19/05/2019 ,Hapoel Beer Sheva,4,Hapoel Hadera,4,1:0,9238
+2018,35,19/05/2019 ,Maccabi Netanya,3,Bnei Yehuda Tel Aviv,3,0:2,3200
+2018,35,19/05/2019 ,Maccabi Haifa,2,Maccabi Tel Aviv,2,1:1,16241
+2018,36,25/05/2019 ,Bnei Yehuda Tel Aviv,5,Hapoel Hadera,5,1:2,2800
+2018,36,25/05/2019 ,Hapoel Beer Sheva,2,Maccabi Tel Aviv,2,0:4,14040
+2018,36,25/05/2019 ,Maccabi Netanya,4,Maccabi Haifa,4,1:2,7100
+2018,27,16/03/2019 ,Hapoel Raanana,3,Ihud Bnei Sakhnin,3,2:2,300
+2018,27,16/03/2019 ,Hapoel Tel Aviv,2,FC Ashdod,2,5:1,4400
+2018,27,17/03/2019 ,Ironi Kiryat Shmona,4,Maccabi Petah Tikva,4,0:1,350
+2018,27,17/03/2019 ,Hapoel Haifa,5,Beitar Jerusalem,5,0:0,2900
+2018,28,30/03/2019 ,FC Ashdod,8,Ironi Kiryat Shmona,8,3:2,250
+2018,28,31/03/2019 ,Maccabi Petah Tikva,4,Hapoel Raanana,4,1:1,388
+2018,28,31/03/2019 ,Beitar Jerusalem,6,Ihud Bnei Sakhnin,6,0:0,5500
+2018,28,01/04/2019 ,Hapoel Haifa,2,Hapoel Tel Aviv,2,0:0,2950
+2018,29,06/04/2019 ,Ironi Kiryat Shmona,6,Hapoel Haifa,6,3:0,600
+2018,29,06/04/2019 ,Ihud Bnei Sakhnin,8,Maccabi Petah Tikva,8,1:1,2300
+2018,29,07/04/2019 ,Hapoel Raanana,3,FC Ashdod,3,1:2,600
+2018,29,08/04/2019 ,Hapoel Tel Aviv,1,Beitar Jerusalem,1,1:2,8000
+2018,30,13/04/2019 ,Hapoel Haifa,2,Hapoel Raanana,2,0:2,2340
+2018,30,13/04/2019 ,Hapoel Tel Aviv,1,Ironi Kiryat Shmona,1,2:2,4500
+2018,30,13/04/2019 ,FC Ashdod,7,Ihud Bnei Sakhnin,7,1:2,500
+2018,30,13/04/2019 ,Beitar Jerusalem,3,Maccabi Petah Tikva,3,4:1,5000
+2018,31,27/04/2019 ,Ironi Kiryat Shmona,5,Beitar Jerusalem,5,0:1,667
+2018,31,27/04/2019 ,Hapoel Raanana,3,Hapoel Tel Aviv,3,2:1,1500
+2018,31,27/04/2019 ,Ihud Bnei Sakhnin,8,Hapoel Haifa,8,1:2,1150
+2018,31,27/04/2019 ,Maccabi Petah Tikva,6,FC Ashdod,6,0:3,700
+2018,32,04/05/2019 ,Beitar Jerusalem,1,FC Ashdod,1,2:3,15000
+2018,32,04/05/2019 ,Hapoel Haifa,3,Maccabi Petah Tikva,3,0:3,2430
+2018,32,04/05/2019 ,Hapoel Tel Aviv,4,Ihud Bnei Sakhnin,4,3:0,4600
+2018,32,04/05/2019 ,Ironi Kiryat Shmona,5,Hapoel Raanana,5,0:0,1315
+2018,33,11/05/2019 ,Hapoel Raanana,3,Beitar Jerusalem,3,1:2,1200
+2018,33,12/05/2019 ,Ihud Bnei Sakhnin,8,Ironi Kiryat Shmona,8,0:2,200
+2018,33,12/05/2019 ,Maccabi Petah Tikva,5,Hapoel Tel Aviv,5,0:2,2500
+2018,33,12/05/2019 ,FC Ashdod,7,Hapoel Haifa,7,1:0,2200
+2017,27,17/03/2018 ,Beitar Jerusalem,3,Maccabi Netanya,3,2:0,10000
+2017,27,18/03/2018 ,Hapoel Beer Sheva,1,Bnei Yehuda Tel Aviv,1,1:0,14362
+2017,27,18/03/2018 ,Maccabi Tel Aviv,2,Hapoel Haifa,2,1:2,11234
+2017,28,03/04/2018 ,Maccabi Netanya,5,Maccabi Tel Aviv,5,4:1,10500
+2017,28,04/04/2018 ,Bnei Yehuda Tel Aviv,6,Hapoel Haifa,6,3:0,2200
+2017,28,04/04/2018 ,Hapoel Beer Sheva,1,Beitar Jerusalem,1,3:1,15728
+2017,29,08/04/2018 ,Hapoel Haifa,4,Maccabi Netanya,4,1:1,4100
+2017,29,08/04/2018 ,Beitar Jerusalem,2,Bnei Yehuda Tel Aviv,2,1:1,8000
+2017,29,08/04/2018 ,Maccabi Tel Aviv,3,Hapoel Beer Sheva,3,0:1,11475
+2017,30,14/04/2018 ,Bnei Yehuda Tel Aviv,6,Maccabi Netanya,6,1:3,2700
+2017,30,15/04/2018 ,Hapoel Beer Sheva,1,Hapoel Haifa,1,2:2,15166
+2017,30,16/04/2018 ,Beitar Jerusalem,2,Maccabi Tel Aviv,2,3:2,10000
+2017,31,21/04/2018 ,Maccabi Tel Aviv,4,Bnei Yehuda Tel Aviv,4,2:0,5036
+2017,31,22/04/2018 ,Maccabi Netanya,5,Hapoel Beer Sheva,5,1:5,11500
+2017,31,23/04/2018 ,Hapoel Haifa,3,Beitar Jerusalem,3,0:1,7500
+2017,32,28/04/2018 ,Bnei Yehuda Tel Aviv,6,Hapoel Beer Sheva,6,1:1,7500
+2017,32,29/04/2018 ,Hapoel Haifa,4,Maccabi Tel Aviv,4,2:2,4000
+2017,32,30/04/2018 ,Maccabi Netanya,5,Beitar Jerusalem,5,4:1,10500
+2017,33,05/05/2018 ,Hapoel Haifa,4,Bnei Yehuda Tel Aviv,4,2:1,4000
+2017,33,05/05/2018 ,Beitar Jerusalem,2,Hapoel Beer Sheva,2,1:4,25500
+2017,33,07/05/2018 ,Maccabi Tel Aviv,3,Maccabi Netanya,3,2:0,6346
+2017,34,12/05/2018 ,Maccabi Netanya,5,Hapoel Haifa,5,2:1,4980
+2017,34,12/05/2018 ,Bnei Yehuda Tel Aviv,6,Beitar Jerusalem,6,3:3,0
+2017,34,12/05/2018 ,Hapoel Beer Sheva,1,Maccabi Tel Aviv,1,0:1,15855
+2017,35,15/05/2018 ,Hapoel Haifa,4,Hapoel Beer Sheva,4,1:4,0
+2017,35,15/05/2018 ,Maccabi Tel Aviv,3,Beitar Jerusalem,3,3:1,6595
+2017,35,16/05/2018 ,Maccabi Netanya,5,Bnei Yehuda Tel Aviv,5,0:5,3250
+2017,36,21/05/2018 ,Beitar Jerusalem,3,Hapoel Haifa,3,1:1,500
+2017,36,21/05/2018 ,Bnei Yehuda Tel Aviv,6,Maccabi Tel Aviv,6,0:2,2400
+2017,36,21/05/2018 ,Hapoel Beer Sheva,1,Maccabi Netanya,1,6:1,13817
+2017,27,17/03/2018 ,Maccabi Haifa,4,Hapoel Acre,4,4:0,6892
+2017,27,17/03/2018 ,Ironi Kiryat Shmona,1,Hapoel Ashkelon,1,1:1,400
+2017,27,17/03/2018 ,Ihud Bnei Sakhnin,5,FC Ashdod,5,2:1,2500
+2017,27,18/03/2018 ,Maccabi Petah Tikva,2,Hapoel Raanana,2,1:3,775
+2017,28,07/04/2018 ,Maccabi Petah Tikva,2,Ironi Kiryat Shmona,2,2:0,1000
+2017,28,07/04/2018 ,Hapoel Raanana,5,Hapoel Acre,5,1:1,250
+2017,28,07/04/2018 ,Hapoel Ashkelon,7,Ihud Bnei Sakhnin,7,2:0,1100
+2017,28,07/04/2018 ,FC Ashdod,6,Maccabi Haifa,6,2:1,1500
+2017,29,14/04/2018 ,Ironi Kiryat Shmona,2,Hapoel Raanana,2,0:1,275
+2017,29,14/04/2018 ,Hapoel Acre,8,FC Ashdod,8,1:1,250
+2017,29,14/04/2018 ,Maccabi Haifa,4,Hapoel Ashkelon,4,2:1,7314
+2017,29,15/04/2018 ,Ihud Bnei Sakhnin,3,Maccabi Petah Tikva,3,2:2,1200
+2017,30,21/04/2018 ,Ironi Kiryat Shmona,3,Ihud Bnei Sakhnin,3,2:0,150
+2017,30,21/04/2018 ,Maccabi Petah Tikva,1,Maccabi Haifa,1,0:1,2500
+2017,30,21/04/2018 ,Hapoel Ashkelon,7,Hapoel Acre,7,0:2,2400
+2017,30,23/04/2018 ,Hapoel Raanana,5,FC Ashdod,5,1:0,300
+2017,31,28/04/2018 ,Hapoel Acre,8,Maccabi Petah Tikva,8,2:1,200
+2017,31,28/04/2018 ,Maccabi Haifa,3,Ironi Kiryat Shmona,3,1:2,8211
+2017,31,28/04/2018 ,Ihud Bnei Sakhnin,5,Hapoel Raanana,5,1:3,600
+2017,31,29/04/2018 ,FC Ashdod,6,Hapoel Ashkelon,6,1:0,2300
+2017,32,05/05/2018 ,Ironi Kiryat Shmona,1,Hapoel Acre,1,4:0,410
+2017,32,05/05/2018 ,Ihud Bnei Sakhnin,5,Maccabi Haifa,5,1:1,600
+2017,32,06/05/2018 ,Hapoel Raanana,3,Hapoel Ashkelon,3,4:0,150
+2017,32,06/05/2018 ,Maccabi Petah Tikva,2,FC Ashdod,2,2:1,600
+2017,33,13/05/2018 ,Maccabi Haifa,4,Hapoel Raanana,4,2:0,5098
+2017,33,13/05/2018 ,Hapoel Acre,8,Ihud Bnei Sakhnin,8,1:2,0
+2017,33,13/05/2018 ,FC Ashdod,6,Ironi Kiryat Shmona,6,1:2,0
+2017,33,13/05/2018 ,Hapoel Ashkelon,7,Maccabi Petah Tikva,7,0:2,0
+2016,27,18/03/2017 ,Maccabi Tel Aviv,2,Ihud Bnei Sakhnin,2,3:0,10500
+2016,27,18/03/2017 ,Maccabi Petah Tikva,4,Beitar Jerusalem,4,0:1,4200
+2016,27,19/03/2017 ,Hapoel Beer Sheva,1,Maccabi Haifa,1,4:0,14775
+2016,28,01/04/2017 ,Maccabi Haifa,6,Beitar Jerusalem,6,3:2,20000
+2016,28,01/04/2017 ,Hapoel Beer Sheva,1,Maccabi Tel Aviv,1,1:0,15500
+2016,28,02/04/2017 ,Ihud Bnei Sakhnin,5,Maccabi Petah Tikva,5,1:0,300
+2016,29,08/04/2017 ,Beitar Jerusalem,4,Ihud Bnei Sakhnin,4,3:0,5000
+2016,29,09/04/2017 ,Maccabi Petah Tikva,3,Hapoel Beer Sheva,3,1:2,9500
+2016,29,09/04/2017 ,Maccabi Tel Aviv,2,Maccabi Haifa,2,3:0,11769
+2016,30,15/04/2017 ,Maccabi Haifa,6,Ihud Bnei Sakhnin,6,0:1,14973
+2016,30,15/04/2017 ,Maccabi Tel Aviv,2,Maccabi Petah Tikva,2,2:0,10275
+2016,30,17/04/2017 ,Hapoel Beer Sheva,1,Beitar Jerusalem,1,2:0,14750
+2016,31,22/04/2017 ,Maccabi Petah Tikva,3,Maccabi Haifa,3,0:1,3000
+2016,31,22/04/2017 ,Ihud Bnei Sakhnin,5,Hapoel Beer Sheva,5,1:3,4000
+2016,31,22/04/2017 ,Beitar Jerusalem,4,Maccabi Tel Aviv,4,1:1,7000
+2016,32,25/04/2017 ,Ihud Bnei Sakhnin,5,Maccabi Tel Aviv,5,1:3,1700
+2016,32,25/04/2017 ,Maccabi Haifa,6,Hapoel Beer Sheva,6,0:1,19723
+2016,32,26/04/2017 ,Beitar Jerusalem,4,Maccabi Petah Tikva,4,2:1,6500
+2016,33,29/04/2017 ,Maccabi Petah Tikva,4,Ihud Bnei Sakhnin,4,1:0,2000
+2016,33,29/04/2017 ,Beitar Jerusalem,3,Maccabi Haifa,3,2:0,6500
+2016,33,29/04/2017 ,Maccabi Tel Aviv,2,Hapoel Beer Sheva,2,1:2,12206
+2016,34,06/05/2017 ,Ihud Bnei Sakhnin,5,Beitar Jerusalem,5,1:5,700
+2016,34,07/05/2017 ,Maccabi Haifa,6,Maccabi Tel Aviv,6,0:2,12000
+2016,34,08/05/2017 ,Hapoel Beer Sheva,1,Maccabi Petah Tikva,1,1:1,15125
+2016,35,13/05/2017 ,Ihud Bnei Sakhnin,5,Maccabi Haifa,5,1:0,1000
+2016,35,14/05/2017 ,Maccabi Petah Tikva,4,Maccabi Tel Aviv,4,2:1,3000
+2016,35,15/05/2017 ,Beitar Jerusalem,3,Hapoel Beer Sheva,3,1:1,5700
+2016,36,20/05/2017 ,Hapoel Beer Sheva,1,Ihud Bnei Sakhnin,1,2:0,10180
+2016,36,20/05/2017 ,Maccabi Haifa,6,Maccabi Petah Tikva,6,0:0,4280
+2016,36,20/05/2017 ,Maccabi Tel Aviv,2,Beitar Jerusalem,2,0:2,7170
+2016,27,18/03/2017 ,Ironi Kiryat Shmona,1,Hapoel Tel Aviv,1,2:3,2000
+2016,27,18/03/2017 ,Hapoel Haifa,2,Hapoel Ashkelon,2,1:4,1700
+2016,27,19/03/2017 ,Hapoel Raanana,4,Bnei Yehuda Tel Aviv,4,0:2,700
+2016,27,20/03/2017 ,FC Ashdod,3,Hapoel Kfar Saba,3,0:0,1350
+2016,28,01/04/2017 ,Hapoel Tel Aviv,8,Bnei Yehuda Tel Aviv,8,2:0,10000
+2016,28,01/04/2017 ,Ironi Kiryat Shmona,1,Hapoel Haifa,1,0:2,700
+2016,28,02/04/2017 ,Hapoel Kfar Saba,6,Hapoel Raanana,6,0:2,1100
+2016,28,03/04/2017 ,Hapoel Ashkelon,7,FC Ashdod,7,0:0,2500
+2016,29,08/04/2017 ,Hapoel Haifa,2,Hapoel Tel Aviv,2,3:3,6700
+2016,29,08/04/2017 ,Hapoel Raanana,3,Hapoel Ashkelon,3,0:2,700
+2016,29,08/04/2017 ,Bnei Yehuda Tel Aviv,5,Hapoel Kfar Saba,5,1:0,2300
+2016,29,09/04/2017 ,FC Ashdod,4,Ironi Kiryat Shmona,4,1:1,720
+2016,30,22/04/2017 ,Hapoel Ashkelon,6,Bnei Yehuda Tel Aviv,6,1:0,1800
+2016,30,22/04/2017 ,Hapoel Haifa,2,FC Ashdod,2,1:1,2200
+2016,30,22/04/2017 ,Ironi Kiryat Shmona,1,Hapoel Raanana,1,2:3,400
+2016,30,24/04/2017 ,Hapoel Tel Aviv,7,Hapoel Kfar Saba,7,2:0,10000
+2016,31,27/04/2017 ,Hapoel Raanana,2,Hapoel Haifa,2,0:2,500
+2016,31,27/04/2017 ,Bnei Yehuda Tel Aviv,5,Ironi Kiryat Shmona,5,0:2,1500
+2016,31,29/04/2017 ,FC Ashdod,4,Hapoel Tel Aviv,4,2:0,4500
+2016,31,29/04/2017 ,Hapoel Kfar Saba,8,Hapoel Ashkelon,8,1:0,1500
+2016,32,06/05/2017 ,Hapoel Tel Aviv,7,Hapoel Ashkelon,7,0:0,10500
+2016,32,06/05/2017 ,Ironi Kiryat Shmona,1,Hapoel Kfar Saba,1,1:4,200
+2016,32,06/05/2017 ,FC Ashdod,3,Hapoel Raanana,3,2:2,250
+2016,32,06/05/2017 ,Hapoel Haifa,2,Bnei Yehuda Tel Aviv,2,1:1,1900
+2016,33,13/05/2017 ,Hapoel Raanana,4,Hapoel Tel Aviv,4,1:1,6500
+2016,33,13/05/2017 ,Bnei Yehuda Tel Aviv,5,FC Ashdod,5,2:1,300
+2016,33,13/05/2017 ,Hapoel Ashkelon,6,Ironi Kiryat Shmona,6,2:1,5000
+2016,33,13/05/2017 ,Hapoel Kfar Saba,8,Hapoel Haifa,8,1:0,2300
+2015,27,12/03/2016 ,Maccabi Tel Aviv,2,Ihud Bnei Sakhnin,2,1:0,11760
+2015,27,12/03/2016 ,Hapoel Beer Sheva,1,Hapoel Raanana,1,0:0,15000
+2015,27,14/03/2016 ,Beitar Jerusalem,3,Maccabi Haifa,3,3:2,18000
+2015,28,19/03/2016 ,Ihud Bnei Sakhnin,6,Beitar Jerusalem,6,2:0,7500
+2015,28,20/03/2016 ,Hapoel Raanana,5,Maccabi Haifa,5,3:0,2500
+2015,28,20/03/2016 ,Hapoel Beer Sheva,1,Maccabi Tel Aviv,1,1:1,15500
+2015,29,02/04/2016 ,Maccabi Haifa,6,Ihud Bnei Sakhnin,6,3:3,17900
+2015,29,03/04/2016 ,Maccabi Tel Aviv,2,Hapoel Raanana,2,3:0,11982
+2015,29,04/04/2016 ,Beitar Jerusalem,3,Hapoel Beer Sheva,3,0:2,14000
+2015,30,09/04/2016 ,Hapoel Raanana,5,Ihud Bnei Sakhnin,5,2:3,2900
+2015,30,09/04/2016 ,Hapoel Beer Sheva,1,Maccabi Haifa,1,1:1,16126
+2015,30,11/04/2016 ,Maccabi Tel Aviv,2,Beitar Jerusalem,2,3:2,13854
+2015,31,16/04/2016 ,Ihud Bnei Sakhnin,4,Hapoel Beer Sheva,4,1:4,4400
+2015,31,17/04/2016 ,Maccabi Haifa,5,Maccabi Tel Aviv,5,0:0,21870
+2015,31,18/04/2016 ,Beitar Jerusalem,3,Hapoel Raanana,3,1:0,13200
+2015,32,24/04/2016 ,Maccabi Haifa,5,Beitar Jerusalem,5,1:0,16900
+2015,32,25/04/2016 ,Hapoel Raanana,6,Hapoel Beer Sheva,6,1:4,5500
+2015,32,25/04/2016 ,Ihud Bnei Sakhnin,4,Maccabi Tel Aviv,4,0:0,7200
+2015,33,30/04/2016 ,Maccabi Haifa,5,Hapoel Raanana,5,2:0,13600
+2015,33,01/05/2016 ,Beitar Jerusalem,3,Ihud Bnei Sakhnin,3,0:3,11200
+2015,33,02/05/2016 ,Maccabi Tel Aviv,2,Hapoel Beer Sheva,2,0:0,11124
+2015,34,07/05/2016 ,Ihud Bnei Sakhnin,4,Maccabi Haifa,4,0:1,4100
+2015,34,09/05/2016 ,Hapoel Raanana,6,Maccabi Tel Aviv,6,1:1,4600
+2015,34,09/05/2016 ,Hapoel Beer Sheva,1,Beitar Jerusalem,1,2:0,15000
+2015,35,14/05/2016 ,Ihud Bnei Sakhnin,5,Hapoel Raanana,5,1:1,1900
+2015,35,14/05/2016 ,Maccabi Haifa,4,Hapoel Beer Sheva,4,2:1,22700
+2015,35,14/05/2016 ,Beitar Jerusalem,3,Maccabi Tel Aviv,3,0:2,18400
+2015,36,21/05/2016 ,Hapoel Raanana,6,Beitar Jerusalem,6,1:2,4400
+2015,36,21/05/2016 ,Maccabi Tel Aviv,2,Maccabi Haifa,2,6:0,13181
+2015,36,21/05/2016 ,Hapoel Beer Sheva,1,Ihud Bnei Sakhnin,1,3:1,16126
+2015,27,19/03/2016 ,Maccabi Petah Tikva,1,Hapoel Haifa,1,2:1,3200
+2015,27,19/03/2016 ,Bnei Yehuda Tel Aviv,2,Ironi Kiryat Shmona,2,1:0,2000
+2015,27,19/03/2016 ,Hapoel Kfar Saba,4,Hapoel Tel Aviv,4,0:3,3800
+2015,27,20/03/2016 ,Hapoel Acre,7,Maccabi Netanya,7,4:1,1000
+2015,28,02/04/2016 ,Bnei Yehuda Tel Aviv,1,Maccabi Petah Tikva,1,1:2,1900
+2015,28,02/04/2016 ,Ironi Kiryat Shmona,6,Maccabi Netanya,6,2:0,2200
+2015,28,02/04/2016 ,Hapoel Tel Aviv,4,Hapoel Acre,4,1:0,5900
+2015,28,03/04/2016 ,Hapoel Haifa,7,Hapoel Kfar Saba,7,0:0,5100
+2015,29,09/04/2016 ,Hapoel Kfar Saba,6,Bnei Yehuda Tel Aviv,6,0:1,1000
+2015,29,09/04/2016 ,Hapoel Acre,4,Hapoel Haifa,4,2:3,900
+2015,29,10/04/2016 ,Maccabi Petah Tikva,1,Ironi Kiryat Shmona,1,2:0,3100
+2015,29,10/04/2016 ,Maccabi Netanya,8,Hapoel Tel Aviv,8,0:1,5600
+2015,30,16/04/2016 ,Ironi Kiryat Shmona,5,Hapoel Tel Aviv,5,1:1,2700
+2015,30,16/04/2016 ,Maccabi Petah Tikva,1,Hapoel Kfar Saba,1,0:1,3100
+2015,30,16/04/2016 ,Hapoel Haifa,7,Maccabi Netanya,7,2:1,4200
+2015,30,17/04/2016 ,Bnei Yehuda Tel Aviv,2,Hapoel Acre,2,3:1,2600
+2015,31,30/04/2016 ,Hapoel Kfar Saba,4,Ironi Kiryat Shmona,4,2:1,2200
+2015,31,30/04/2016 ,Hapoel Acre,7,Maccabi Petah Tikva,7,1:3,2600
+2015,31,30/04/2016 ,Hapoel Tel Aviv,3,Hapoel Haifa,3,3:3,5500
+2015,31,01/05/2016 ,Maccabi Netanya,8,Bnei Yehuda Tel Aviv,8,0:1,3800
+2015,32,07/05/2016 ,Bnei Yehuda Tel Aviv,1,Hapoel Tel Aviv,1,2:4,5700
+2015,32,07/05/2016 ,Ironi Kiryat Shmona,6,Hapoel Haifa,6,2:1,2900
+2015,32,07/05/2016 ,Hapoel Kfar Saba,4,Hapoel Acre,4,0:0,1900
+2015,32,08/05/2016 ,Maccabi Petah Tikva,2,Maccabi Netanya,2,2:1,4100
+2015,33,14/05/2016 ,Maccabi Netanya,8,Hapoel Kfar Saba,8,1:1,4900
+2015,33,15/05/2016 ,Hapoel Tel Aviv,3,Maccabi Petah Tikva,3,0:0,5500
+2015,33,16/05/2016 ,Hapoel Acre,7,Ironi Kiryat Shmona,7,1:1,2400
+2015,33,16/05/2016 ,Hapoel Haifa,6,Bnei Yehuda Tel Aviv,6,1:1,4600
+2014,27,21/03/2015 ,Hapoel Beer Sheva,3,Maccabi Petah Tikva,3,3:0,6000
+2014,27,22/03/2015 ,Ironi Kiryat Shmona,2,Beitar Jerusalem,2,1:2,2200
+2014,27,22/03/2015 ,Maccabi Tel Aviv,1,Maccabi Haifa,1,2:1,13000
+2014,28,05/04/2015 ,Maccabi Haifa,6,Beitar Jerusalem,6,1:0,29235
+2014,28,06/04/2015 ,Maccabi Petah Tikva,5,Ironi Kiryat Shmona,5,0:1,700
+2014,28,06/04/2015 ,Maccabi Tel Aviv,1,Hapoel Beer Sheva,1,3:1,13732
+2014,29,12/04/2015 ,Beitar Jerusalem,4,Maccabi Petah Tikva,4,0:0,3000
+2014,29,12/04/2015 ,Hapoel Beer Sheva,2,Maccabi Haifa,2,1:1,6000
+2014,29,13/04/2015 ,Ironi Kiryat Shmona,3,Maccabi Tel Aviv,3,0:0,3800
+2014,30,19/04/2015 ,Maccabi Tel Aviv,1,Beitar Jerusalem,1,4:1,12600
+2014,30,19/04/2015 ,Hapoel Beer Sheva,2,Ironi Kiryat Shmona,2,2:2,4500
+2014,30,20/04/2015 ,Maccabi Haifa,5,Maccabi Petah Tikva,5,0:0,21150
+2014,31,25/04/2015 ,Maccabi Petah Tikva,6,Maccabi Tel Aviv,6,1:1,9000
+2014,31,26/04/2015 ,Beitar Jerusalem,4,Hapoel Beer Sheva,4,1:1,6500
+2014,31,27/04/2015 ,Ironi Kiryat Shmona,3,Maccabi Haifa,3,1:0,2000
+2014,32,02/05/2015 ,Beitar Jerusalem,4,Ironi Kiryat Shmona,4,0:1,5930
+2014,32,03/05/2015 ,Maccabi Petah Tikva,6,Hapoel Beer Sheva,6,1:2,3500
+2014,32,04/05/2015 ,Maccabi Haifa,5,Maccabi Tel Aviv,5,1:1,30000
+2014,33,09/05/2015 ,Ironi Kiryat Shmona,3,Maccabi Petah Tikva,3,2:0,1500
+2014,33,10/05/2015 ,Beitar Jerusalem,4,Maccabi Haifa,4,1:1,16200
+2014,33,11/05/2015 ,Hapoel Beer Sheva,2,Maccabi Tel Aviv,2,1:1,9000
+2014,34,16/05/2015 ,Maccabi Haifa,5,Hapoel Beer Sheva,5,4:0,21000
+2014,34,17/05/2015 ,Maccabi Tel Aviv,1,Ironi Kiryat Shmona,1,2:1,12700
+2014,34,18/05/2015 ,Maccabi Petah Tikva,6,Beitar Jerusalem,6,1:2,5000
+2014,35,24/05/2015 ,Ironi Kiryat Shmona,2,Hapoel Beer Sheva,2,3:1,500
+2014,35,25/05/2015 ,Maccabi Petah Tikva,6,Maccabi Haifa,6,1:0,5000
+2014,35,25/05/2015 ,Beitar Jerusalem,4,Maccabi Tel Aviv,4,3:0,10000
+2014,36,30/05/2015 ,Maccabi Haifa,5,Ironi Kiryat Shmona,5,4:1,13000
+2014,36,30/05/2015 ,Hapoel Beer Sheva,3,Beitar Jerusalem,3,4:0,4800
+2014,36,01/06/2015 ,Maccabi Tel Aviv,1,Maccabi Petah Tikva,1,0:2,11421
+2014,27,21/03/2015 ,Hapoel Raanana,4,FC Ashdod,4,4:0,185
+2014,27,21/03/2015 ,Hapoel Tel Aviv,2,Hapoel Acre,2,2:0,8054
+2014,27,21/03/2015 ,Ihud Bnei Sakhnin,1,Hapoel Haifa,1,1:0,2000
+2014,27,21/03/2015 ,Maccabi Netanya,3,Hapoel Petah Tikva,3,3:1,3800
+2014,28,11/04/2015 ,Hapoel Haifa,6,Hapoel Tel Aviv,6,0:1,3000
+2014,28,11/04/2015 ,Hapoel Raanana,1,Maccabi Netanya,1,1:2,1000
+2014,28,11/04/2015 ,FC Ashdod,5,Hapoel Acre,5,0:0,350
+2014,28,11/04/2015 ,Hapoel Petah Tikva,7,Ihud Bnei Sakhnin,7,2:3,2000
+2014,29,18/04/2015 ,Hapoel Tel Aviv,4,Hapoel Petah Tikva,4,1:2,8365
+2014,29,18/04/2015 ,Hapoel Acre,8,Hapoel Haifa,8,1:0,3500
+2014,29,18/04/2015 ,Ihud Bnei Sakhnin,3,Hapoel Raanana,3,1:1,1500
+2014,29,18/04/2015 ,Maccabi Netanya,1,FC Ashdod,1,0:0,3040
+2014,30,25/04/2015 ,Hapoel Petah Tikva,6,Hapoel Acre,6,0:2,4500
+2014,30,25/04/2015 ,Hapoel Raanana,2,Hapoel Tel Aviv,2,2:2,2000
+2014,30,25/04/2015 ,FC Ashdod,5,Hapoel Haifa,5,0:0,1400
+2014,30,25/04/2015 ,Maccabi Netanya,1,Ihud Bnei Sakhnin,1,2:3,3000
+2014,31,02/05/2015 ,Hapoel Tel Aviv,4,Maccabi Netanya,4,2:1,6040
+2014,31,02/05/2015 ,Ihud Bnei Sakhnin,1,FC Ashdod,1,1:1,1000
+2014,31,02/05/2015 ,Hapoel Haifa,7,Hapoel Petah Tikva,7,3:2,4000
+2014,31,02/05/2015 ,Hapoel Acre,6,Hapoel Raanana,6,2:0,2000
+2014,32,09/05/2015 ,Ihud Bnei Sakhnin,1,Hapoel Tel Aviv,1,2:0,1500
+2014,32,09/05/2015 ,FC Ashdod,6,Hapoel Petah Tikva,6,2:4,1500
+2014,32,09/05/2015 ,Hapoel Raanana,3,Hapoel Haifa,3,1:2,1000
+2014,32,11/05/2015 ,Maccabi Netanya,2,Hapoel Acre,2,1:2,3000
+2014,33,16/05/2015 ,Hapoel Petah Tikva,8,Hapoel Raanana,8,4:2,600
+2014,33,16/05/2015 ,Hapoel Tel Aviv,4,FC Ashdod,4,1:0,6300
+2014,33,16/05/2015 ,Hapoel Acre,5,Ihud Bnei Sakhnin,5,1:0,2000
+2014,33,16/05/2015 ,Hapoel Haifa,6,Maccabi Netanya,6,0:0,6700
+2013,27,22/03/2014 ,Hapoel Beer Sheva,2,Ihud Bnei Sakhnin,2,2:0,6500
+2013,27,22/03/2014 ,Ironi Kiryat Shmona,3,Maccabi Haifa,3,1:0,3000
+2013,27,24/03/2014 ,Maccabi Tel Aviv,1,Hapoel Tel Aviv,1,0:0,12983
+2013,28,29/03/2014 ,Ihud Bnei Sakhnin,6,Ironi Kiryat Shmona,6,1:4,0
+2013,28,29/03/2014 ,Hapoel Tel Aviv,5,Maccabi Haifa,5,4:0,10000
+2013,28,31/03/2014 ,Maccabi Tel Aviv,1,Hapoel Beer Sheva,1,2:0,13397
+2013,29,05/04/2014 ,Maccabi Haifa,4,Ihud Bnei Sakhnin,4,1:2,6500
+2013,29,05/04/2014 ,Hapoel Beer Sheva,2,Hapoel Tel Aviv,2,1:1,7000
+2013,29,07/04/2014 ,Ironi Kiryat Shmona,3,Maccabi Tel Aviv,3,2:2,4000
+2013,30,12/04/2014 ,Hapoel Beer Sheva,2,Ironi Kiryat Shmona,2,0:2,4500
+2013,30,12/04/2014 ,Hapoel Tel Aviv,4,Ihud Bnei Sakhnin,4,3:0,6015
+2013,30,13/04/2014 ,Maccabi Tel Aviv,1,Maccabi Haifa,1,1:0,12883
+2013,31,19/04/2014 ,Ironi Kiryat Shmona,3,Hapoel Tel Aviv,3,1:1,0
+2013,31,19/04/2014 ,Maccabi Haifa,5,Hapoel Beer Sheva,5,2:1,5000
+2013,31,20/04/2014 ,Ihud Bnei Sakhnin,6,Maccabi Tel Aviv,6,2:1,8500
+2013,32,26/04/2014 ,Ihud Bnei Sakhnin,6,Hapoel Beer Sheva,6,0:0,1000
+2013,32,26/04/2014 ,Hapoel Tel Aviv,4,Maccabi Tel Aviv,4,3:1,11300
+2013,32,28/04/2014 ,Maccabi Haifa,5,Ironi Kiryat Shmona,5,1:3,5500
+2013,33,03/05/2014 ,Maccabi Haifa,5,Hapoel Tel Aviv,5,1:1,6500
+2013,33,03/05/2014 ,Ironi Kiryat Shmona,3,Ihud Bnei Sakhnin,3,2:0,0
+2013,33,03/05/2014 ,Hapoel Beer Sheva,2,Maccabi Tel Aviv,2,1:2,10500
+2013,34,10/05/2014 ,Hapoel Tel Aviv,4,Hapoel Beer Sheva,4,1:2,11000
+2013,34,10/05/2014 ,Ihud Bnei Sakhnin,6,Maccabi Haifa,6,0:2,1500
+2013,34,11/05/2014 ,Maccabi Tel Aviv,1,Ironi Kiryat Shmona,1,3:1,12789
+2013,35,13/05/2014 ,Ihud Bnei Sakhnin,6,Hapoel Tel Aviv,6,1:3,1000
+2013,35,14/05/2014 ,Ironi Kiryat Shmona,3,Hapoel Beer Sheva,3,3:0,1500
+2013,35,14/05/2014 ,Maccabi Haifa,5,Maccabi Tel Aviv,5,2:2,15000
+2013,36,17/05/2014 ,Hapoel Tel Aviv,4,Ironi Kiryat Shmona,4,4:2,4000
+2013,36,17/05/2014 ,Hapoel Beer Sheva,2,Maccabi Haifa,2,1:1,3500
+2013,36,17/05/2014 ,Maccabi Tel Aviv,1,Ihud Bnei Sakhnin,1,4:1,7826
+2013,27,29/03/2014 ,FC Ashdod,2,Hapoel Ramat haSharon,2,0:1,0
+2013,27,29/03/2014 ,Hapoel Acre,4,Hapoel Raanana,4,1:1,0
+2013,27,29/03/2014 ,Hapoel Haifa,5,Bnei Yehuda Tel Aviv,5,0:1,1500
+2013,27,30/03/2014 ,Beitar Jerusalem,1,Maccabi Petah Tikva,1,3:0,1500
+2013,28,05/04/2014 ,FC Ashdod,2,Hapoel Haifa,2,4:1,0
+2013,28,05/04/2014 ,Maccabi Petah Tikva,6,Hapoel Acre,6,0:0,0
+2013,28,05/04/2014 ,Hapoel Ramat haSharon,8,Hapoel Raanana,8,0:0,0
+2013,28,06/04/2014 ,Bnei Yehuda Tel Aviv,7,Beitar Jerusalem,7,1:0,4700
+2013,29,12/04/2014 ,Hapoel Haifa,3,Hapoel Ramat haSharon,3,0:1,0
+2013,29,12/04/2014 ,Hapoel Acre,4,Bnei Yehuda Tel Aviv,4,1:1,2000
+2013,29,12/04/2014 ,Hapoel Raanana,5,Maccabi Petah Tikva,5,4:2,0
+2013,29,13/04/2014 ,Beitar Jerusalem,2,FC Ashdod,2,1:0,1000
+2013,30,19/04/2014 ,FC Ashdod,2,Hapoel Acre,2,1:0,0
+2013,30,19/04/2014 ,Bnei Yehuda Tel Aviv,6,Hapoel Raanana,6,1:3,0
+2013,30,19/04/2014 ,Hapoel Ramat haSharon,7,Maccabi Petah Tikva,7,4:1,0
+2013,30,21/04/2014 ,Hapoel Haifa,4,Beitar Jerusalem,4,1:0,0
+2013,31,26/04/2014 ,Beitar Jerusalem,2,Hapoel Ramat haSharon,2,4:0,800
+2013,31,26/04/2014 ,Hapoel Acre,5,Hapoel Haifa,5,1:0,2000
+2013,31,26/04/2014 ,Hapoel Raanana,3,FC Ashdod,3,1:1,0
+2013,31,26/04/2014 ,Maccabi Petah Tikva,8,Bnei Yehuda Tel Aviv,8,1:0,3500
+2013,32,03/05/2014 ,Beitar Jerusalem,1,Hapoel Acre,1,0:2,850
+2013,32,03/05/2014 ,FC Ashdod,2,Maccabi Petah Tikva,2,0:5,450
+2013,32,03/05/2014 ,Hapoel Ramat haSharon,6,Bnei Yehuda Tel Aviv,6,0:1,4500
+2013,32,03/05/2014 ,Hapoel Haifa,4,Hapoel Raanana,4,0:2,0
+2013,33,10/05/2014 ,Hapoel Acre,4,Hapoel Ramat haSharon,4,1:2,0
+2013,33,10/05/2014 ,Hapoel Raanana,2,Beitar Jerusalem,2,0:2,0
+2013,33,10/05/2014 ,Maccabi Petah Tikva,6,Hapoel Haifa,6,2:1,0
+2013,33,10/05/2014 ,Bnei Yehuda Tel Aviv,7,FC Ashdod,7,1:1,10000
+2012,27,16/03/2013 ,Ironi Kiryat Shmona,5,Hapoel Tel Aviv,5,0:1,2000
+2012,27,16/03/2013 ,Maccabi Tel Aviv,1,Hapoel Ramat haSharon,1,1:0,11300
+2012,27,17/03/2013 ,Maccabi Haifa,2,Bnei Yehuda Tel Aviv,2,1:0,9000
+2012,28,30/03/2013 ,Bnei Yehuda Tel Aviv,5,Ironi Kiryat Shmona,5,1:1,2500
+2012,28,30/03/2013 ,Hapoel Ramat haSharon,6,Hapoel Tel Aviv,6,0:1,1400
+2012,28,30/03/2013 ,Maccabi Tel Aviv,1,Maccabi Haifa,1,0:0,13600
+2012,29,02/04/2013 ,Hapoel Tel Aviv,3,Bnei Yehuda Tel Aviv,3,2:1,6000
+2012,29,02/04/2013 ,Maccabi Haifa,2,Hapoel Ramat haSharon,2,6:0,6000
+2012,29,03/04/2013 ,Ironi Kiryat Shmona,4,Maccabi Tel Aviv,4,1:3,4500
+2012,30,06/04/2013 ,Hapoel Ramat haSharon,6,Bnei Yehuda Tel Aviv,6,0:3,300
+2012,30,06/04/2013 ,Maccabi Haifa,2,Ironi Kiryat Shmona,2,3:2,8000
+2012,30,06/04/2013 ,Maccabi Tel Aviv,1,Hapoel Tel Aviv,1,2:0,14000
+2012,31,13/04/2013 ,Hapoel Tel Aviv,3,Maccabi Haifa,3,2:2,9000
+2012,31,13/04/2013 ,Ironi Kiryat Shmona,4,Hapoel Ramat haSharon,4,1:0,500
+2012,31,13/04/2013 ,Bnei Yehuda Tel Aviv,5,Maccabi Tel Aviv,5,2:2,14000
+2012,32,20/04/2013 ,Hapoel Tel Aviv,3,Ironi Kiryat Shmona,3,1:4,5000
+2012,32,21/04/2013 ,Bnei Yehuda Tel Aviv,5,Maccabi Haifa,5,2:1,2000
+2012,32,22/04/2013 ,Hapoel Ramat haSharon,6,Maccabi Tel Aviv,6,0:2,35000
+2012,33,27/04/2013 ,Ironi Kiryat Shmona,4,Bnei Yehuda Tel Aviv,4,0:1,800
+2012,33,28/04/2013 ,Hapoel Tel Aviv,3,Hapoel Ramat haSharon,3,2:0,4400
+2012,33,29/04/2013 ,Maccabi Haifa,2,Maccabi Tel Aviv,2,2:2,8500
+2012,34,04/05/2013 ,Maccabi Tel Aviv,1,Ironi Kiryat Shmona,1,1:0,11000
+2012,34,05/05/2013 ,Hapoel Ramat haSharon,6,Maccabi Haifa,6,2:1,350
+2012,34,06/05/2013 ,Bnei Yehuda Tel Aviv,5,Hapoel Tel Aviv,5,0:1,3500
+2012,35,11/05/2013 ,Ironi Kiryat Shmona,4,Maccabi Haifa,4,1:2,1700
+2012,35,11/05/2013 ,Bnei Yehuda Tel Aviv,5,Hapoel Ramat haSharon,5,2:1,2500
+2012,35,13/05/2013 ,Hapoel Tel Aviv,3,Maccabi Tel Aviv,3,2:4,10500
+2012,36,18/05/2013 ,Hapoel Ramat haSharon,6,Ironi Kiryat Shmona,6,0:1,450
+2012,36,18/05/2013 ,Maccabi Haifa,2,Hapoel Tel Aviv,2,3:2,12000
+2012,36,20/05/2013 ,Maccabi Tel Aviv,1,Bnei Yehuda Tel Aviv,1,0:3,10000
+2012,27,16/03/2013 ,FC Ashdod,1,Hapoel Acre,1,1:2,500
+2012,27,16/03/2013 ,Hapoel Beer Sheva,2,Ihud Bnei Sakhnin,2,1:2,2000
+2012,27,16/03/2013 ,Hapoel Haifa,3,Maccabi Netanya,3,3:0,4500
+2012,27,17/03/2013 ,Beitar Jerusalem,4,Hapoel Ramat Gan,4,1:2,1500
+2012,28,30/03/2013 ,Hapoel Acre,7,Maccabi Netanya,7,2:0,2500
+2012,28,30/03/2013 ,Hapoel Ramat Gan,6,Hapoel Beer Sheva,6,1:1,2000
+2012,28,01/04/2013 ,Ihud Bnei Sakhnin,5,Hapoel Haifa,5,0:0,2000
+2012,28,01/04/2013 ,FC Ashdod,1,Beitar Jerusalem,1,2:2,1200
+2012,29,06/04/2013 ,Hapoel Haifa,3,Hapoel Ramat Gan,3,1:0,4000
+2012,29,06/04/2013 ,Hapoel Beer Sheva,4,FC Ashdod,4,2:0,3500
+2012,29,06/04/2013 ,Maccabi Netanya,8,Ihud Bnei Sakhnin,8,1:1,6800
+2012,29,08/04/2013 ,Beitar Jerusalem,2,Hapoel Acre,2,2:2,3000
+2012,30,13/04/2013 ,FC Ashdod,1,Hapoel Haifa,1,1:0,700
+2012,30,13/04/2013 ,Hapoel Acre,5,Ihud Bnei Sakhnin,5,1:1,3000
+2012,30,13/04/2013 ,Hapoel Ramat Gan,7,Maccabi Netanya,7,0:0,4000
+2012,30,13/04/2013 ,Beitar Jerusalem,3,Hapoel Beer Sheva,3,1:0,2500
+2012,31,20/04/2013 ,Hapoel Beer Sheva,4,Hapoel Acre,4,0:0,4000
+2012,31,20/04/2013 ,Hapoel Haifa,3,Beitar Jerusalem,3,3:1,3500
+2012,31,20/04/2013 ,Maccabi Netanya,8,FC Ashdod,8,2:1,4200
+2012,31,23/04/2013 ,Ihud Bnei Sakhnin,6,Hapoel Ramat Gan,6,1:0,5000
+2012,32,27/04/2013 ,FC Ashdod,1,Ihud Bnei Sakhnin,1,1:1,300
+2012,32,27/04/2013 ,Beitar Jerusalem,3,Maccabi Netanya,3,1:3,2500
+2012,32,27/04/2013 ,Hapoel Acre,6,Hapoel Ramat Gan,6,2:1,2500
+2012,32,27/04/2013 ,Hapoel Beer Sheva,5,Hapoel Haifa,5,2:0,5000
+2012,33,04/05/2013 ,Hapoel Ramat Gan,8,FC Ashdod,8,1:2,200
+2012,33,04/05/2013 ,Hapoel Haifa,2,Hapoel Acre,2,1:1,5000
+2012,33,04/05/2013 ,Maccabi Netanya,7,Hapoel Beer Sheva,7,0:3,12000
+2012,33,04/05/2013 ,Ihud Bnei Sakhnin,6,Beitar Jerusalem,6,0:0,8000
+2011,27,24/03/2012 ,Ihud Bnei Sakhnin,8,Maccabi Haifa,8,0:2,3000
+2011,27,24/03/2012 ,FC Ashdod,7,Maccabi Netanya,7,0:2,2000
+2011,27,24/03/2012 ,Hapoel Tel Aviv,2,Maccabi Tel Aviv,2,0:0,0
+2011,27,26/03/2012 ,Ironi Kiryat Shmona,1,Bnei Yehuda Tel Aviv,1,0:1,5000
+2011,28,31/03/2012 ,Bnei Yehuda Tel Aviv,7,Maccabi Netanya,7,1:0,3000
+2011,28,31/03/2012 ,Maccabi Tel Aviv,8,Ihud Bnei Sakhnin,8,5:2,5000
+2011,28,02/04/2012 ,Maccabi Haifa,4,FC Ashdod,4,3:0,6500
+2011,28,02/04/2012 ,Ironi Kiryat Shmona,1,Hapoel Tel Aviv,1,0:0,5000
+2011,29,14/04/2012 ,FC Ashdod,8,Maccabi Tel Aviv,8,1:1,2000
+2011,29,14/04/2012 ,Ihud Bnei Sakhnin,7,Ironi Kiryat Shmona,7,5:0,1500
+2011,29,14/04/2012 ,Hapoel Tel Aviv,2,Bnei Yehuda Tel Aviv,2,3:3,0
+2011,29,14/04/2012 ,Maccabi Netanya,4,Maccabi Haifa,4,1:0,3000
+2011,30,28/04/2012 ,Hapoel Tel Aviv,3,Ihud Bnei Sakhnin,3,3:1,7500
+2011,30,28/04/2012 ,Bnei Yehuda Tel Aviv,6,Maccabi Haifa,6,2:1,2500
+2011,30,28/04/2012 ,Ironi Kiryat Shmona,1,FC Ashdod,1,1:0,500
+2011,30,30/04/2012 ,Maccabi Tel Aviv,7,Maccabi Netanya,7,1:0,5500
+2011,31,05/05/2012 ,Ihud Bnei Sakhnin,7,Bnei Yehuda Tel Aviv,7,0:3,1000
+2011,31,05/05/2012 ,FC Ashdod,8,Hapoel Tel Aviv,8,0:2,2000
+2011,31,05/05/2012 ,Maccabi Netanya,4,Ironi Kiryat Shmona,4,1:3,1000
+2011,31,06/05/2012 ,Maccabi Haifa,6,Maccabi Tel Aviv,6,2:1,10000
+2011,32,08/05/2012 ,Ihud Bnei Sakhnin,7,FC Ashdod,7,1:2,1000
+2011,32,08/05/2012 ,Hapoel Tel Aviv,2,Maccabi Netanya,2,1:3,4000
+2011,32,09/05/2012 ,Ironi Kiryat Shmona,1,Maccabi Haifa,1,0:1,1500
+2011,32,09/05/2012 ,Bnei Yehuda Tel Aviv,3,Maccabi Tel Aviv,3,4:3,4000
+2011,33,12/05/2012 ,FC Ashdod,7,Bnei Yehuda Tel Aviv,7,2:1,2500
+2011,33,12/05/2012 ,Maccabi Netanya,5,Ihud Bnei Sakhnin,5,3:2,6500
+2011,33,12/05/2012 ,Maccabi Haifa,4,Hapoel Tel Aviv,4,1:1,10000
+2011,33,12/05/2012 ,Maccabi Tel Aviv,6,Ironi Kiryat Shmona,6,3:2,3500
+2011,27,24/03/2012 ,Hapoel Haifa,4,Hapoel Beer Sheva,4,2:1,3500
+2011,27,24/03/2012 ,Hapoel Acre,2,Hapoel Petah Tikva,2,2:3,1000
+2011,27,24/03/2012 ,Hapoel Ramat haSharon,3,Hapoel Rishon leZion,3,5:2,400
+2011,27,25/03/2012 ,Beitar Jerusalem,1,Maccabi Petah Tikva,1,3:1,6000
+2011,28,31/03/2012 ,Hapoel Petah Tikva,8,Hapoel Beer Sheva,8,1:1,2000
+2011,28,31/03/2012 ,Hapoel Acre,2,Hapoel Ramat haSharon,2,2:0,1000
+2011,28,31/03/2012 ,Maccabi Petah Tikva,6,Hapoel Haifa,6,2:1,1500
+2011,28,31/03/2012 ,Hapoel Rishon leZion,7,Beitar Jerusalem,7,1:2,4000
+2011,29,14/04/2012 ,Hapoel Ramat haSharon,2,Hapoel Petah Tikva,2,2:1,500
+2011,29,14/04/2012 ,Hapoel Haifa,4,Hapoel Rishon leZion,4,2:0,3000
+2011,29,15/04/2012 ,Beitar Jerusalem,3,Hapoel Acre,3,1:0,6000
+2011,29,16/04/2012 ,Hapoel Beer Sheva,5,Maccabi Petah Tikva,5,1:0,11000
+2011,30,28/04/2012 ,Hapoel Acre,3,Hapoel Haifa,3,0:0,2000
+2011,30,28/04/2012 ,Hapoel Rishon leZion,7,Hapoel Beer Sheva,7,0:1,3000
+2011,30,28/04/2012 ,Hapoel Petah Tikva,8,Maccabi Petah Tikva,8,0:1,4000
+2011,30,29/04/2012 ,Hapoel Ramat haSharon,1,Beitar Jerusalem,1,0:1,1000
+2011,31,05/05/2012 ,Beitar Jerusalem,1,Hapoel Petah Tikva,1,2:0,3000
+2011,31,05/05/2012 ,Hapoel Haifa,4,Hapoel Ramat haSharon,4,1:1,2500
+2011,31,05/05/2012 ,Hapoel Beer Sheva,5,Hapoel Acre,5,1:3,4500
+2011,31,05/05/2012 ,Maccabi Petah Tikva,6,Hapoel Rishon leZion,6,2:1,700
+2011,32,08/05/2012 ,Beitar Jerusalem,1,Hapoel Haifa,1,0:0,6000
+2011,32,08/05/2012 ,Hapoel Ramat haSharon,3,Hapoel Beer Sheva,3,0:0,1000
+2011,32,08/05/2012 ,Hapoel Acre,2,Maccabi Petah Tikva,2,1:2,1500
+2011,32,08/05/2012 ,Hapoel Petah Tikva,8,Hapoel Rishon leZion,8,2:0,0
+2011,33,12/05/2012 ,Hapoel Haifa,4,Hapoel Petah Tikva,4,2:1,5000
+2011,33,12/05/2012 ,Hapoel Beer Sheva,5,Beitar Jerusalem,5,3:1,11500
+2011,33,12/05/2012 ,Maccabi Petah Tikva,6,Hapoel Ramat haSharon,6,0:0,2500
+2011,33,12/05/2012 ,Hapoel Rishon leZion,7,Hapoel Acre,7,1:2,150
+2010,27,23/04/2011 ,Maccabi Tel Aviv,3,Ironi Kiryat Shmona,3,3:1,7751
+2010,27,23/04/2011 ,Maccabi Haifa,1,Maccabi Netanya,1,1:2,11000
+2010,27,25/04/2011 ,Hapoel Tel Aviv,2,Bnei Yehuda Tel Aviv,2,2:1,13250
+2010,28,30/04/2011 ,Maccabi Haifa,2,Hapoel Tel Aviv,2,2:0,14000
+2010,28,30/04/2011 ,Bnei Yehuda Tel Aviv,5,Maccabi Tel Aviv,5,1:3,4500
+2010,28,30/04/2011 ,Maccabi Netanya,4,Ironi Kiryat Shmona,4,3:3,0
+2010,29,07/05/2011 ,Hapoel Tel Aviv,2,Maccabi Netanya,2,2:2,12350
+2010,29,07/05/2011 ,Maccabi Tel Aviv,3,Maccabi Haifa,3,0:2,13000
+2010,29,07/05/2011 ,Ironi Kiryat Shmona,5,Bnei Yehuda Tel Aviv,5,1:2,2500
+2010,30,14/05/2011 ,Hapoel Tel Aviv,2,Maccabi Tel Aviv,2,2:2,14100
+2010,30,14/05/2011 ,Maccabi Netanya,5,Bnei Yehuda Tel Aviv,5,0:4,3750
+2010,30,16/05/2011 ,Maccabi Haifa,1,Ironi Kiryat Shmona,1,2:0,15000
+2010,31,21/05/2011 ,Maccabi Tel Aviv,3,Maccabi Netanya,3,4:1,0
+2010,31,21/05/2011 ,Ironi Kiryat Shmona,6,Hapoel Tel Aviv,6,2:1,2000
+2010,31,21/05/2011 ,Bnei Yehuda Tel Aviv,4,Maccabi Haifa,4,1:1,3000
+2010,27,23/04/2011 ,Beitar Jerusalem,1,Hapoel Ramat Gan,1,5:1,0
+2010,27,23/04/2011 ,FC Ashdod,2,Hapoel Ashkelon,2,4:1,0
+2010,27,23/04/2011 ,Hapoel Petah Tikva,4,Ihud Bnei Sakhnin,4,1:1,1000
+2010,28,30/04/2011 ,Beitar Jerusalem,1,Hapoel Petah Tikva,1,3:0,4000
+2010,28,30/04/2011 ,Ihud Bnei Sakhnin,4,FC Ashdod,4,1:0,0
+2010,28,30/04/2011 ,Hapoel Ramat Gan,6,Hapoel Ashkelon,6,2:0,0
+2010,29,07/05/2011 ,Hapoel Petah Tikva,3,Hapoel Ramat Gan,3,1:2,1000
+2010,29,07/05/2011 ,FC Ashdod,2,Beitar Jerusalem,2,0:0,0
+2010,29,07/05/2011 ,Hapoel Ashkelon,5,Ihud Bnei Sakhnin,5,2:1,0
+2010,30,14/05/2011 ,Hapoel Petah Tikva,3,FC Ashdod,3,1:1,2500
+2010,30,14/05/2011 ,Beitar Jerusalem,1,Hapoel Ashkelon,1,0:1,0
+2010,30,14/05/2011 ,Hapoel Ramat Gan,6,Ihud Bnei Sakhnin,6,1:2,0
+2010,31,21/05/2011 ,FC Ashdod,2,Hapoel Ramat Gan,2,1:0,0
+2010,31,21/05/2011 ,Hapoel Ashkelon,5,Hapoel Petah Tikva,5,0:3,0
+2010,31,21/05/2011 ,Ihud Bnei Sakhnin,3,Beitar Jerusalem,3,1:0,0
